@@ -1,0 +1,73 @@
+
+body{
+  background:#ffe4c4;font-size:10px;font-family:arial;
+}
+.clay{
+  background:#ff67;border:9px solid green;
+  max-width:800;
+  margin-left:outo;
+   margin-right:outo;
+  padding:25px;
+}
+p{
+  font-size:30px;letter-spacing:2px;color:
+}
+.intro{
+border:4px solid yellow ;
+  max-width:700px;
+  webkit-border-radius:50px;
+  omz-border-radius:50px;
+  border-radius:50px;
+  font-size:25px;
+  margin-left:outo;
+  margin-right:outo;
+  padding:25px;
+  display:inline-block;
+  border-top:100px solid red;
+  border-right:10px solid grey;
+  border-left:4px solid blue;
+}
+h2{
+  display:inline-block;
+  border-top:20px solid ;
+  border-right:20px solid grey;
+  background-color:blue;font-size:20px;
+}
+.career{
+  background:linen;
+  font-size:13px;
+  padding:25p;
+   display:inline-block;
+  border-top:20px solid tomato;
+  border-right:20px solid grey;
+  background-color:blue;font-size:20px;
+}
+}
+h3{
+  width: ;
+  height:0 ; border-top: 50px solid transparent;border-bottom: 50px solid transparent;
+ border-left: 100px solid red; 
+  border-right:100px solid ;
+  font-size:24px;
+  text-align:center;
+}
+h4{
+   width: ;
+  height: 0; border-top: 50px solid transparent;  border-bottom: 50px solid transparent;
+  border-left: 100px solid ;
+  border-right:100px solid red ;font-size:24px;
+  text-align:center;
+}
+.marr{
+  max-width:600px;border:5px solid #2323;
+  webkit-border-radius:50px;
+  omz-border-radius:50px;
+  border-radius:50px;padding:2px;font-size:13px;background:#00ff00;
+  
+}
+.rel{
+  font-size:7px;color:#808;
+}
+img{
+  width:25%;border-radius:80%;border:2px solid #f0f;
+}
